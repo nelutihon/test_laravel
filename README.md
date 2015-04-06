@@ -1,6 +1,6 @@
 ## test_laravel
 
-php composer.phar intall
+php composer.phar install
 
 Copy .env.example to .env and edit the database settings
 
