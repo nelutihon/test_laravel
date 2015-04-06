@@ -8,4 +8,4 @@
     {!! Form::label('category', 'Name') !!}
     {!! Form::text('category', null, array('class' => 'form-control')) !!}
 </div>
-{!! Form::submit('Save', array('class' => 'btn btn-primary')) !!}
+{!! Form::submit('Save', array('class' => 'btn btn-primary center-block')) !!}

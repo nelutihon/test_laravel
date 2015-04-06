@@ -19,4 +19,4 @@
     {!! Form::select('category_id', $categories, null, array('class' => 'form-control') ) !!}
 </div>
 
-{!! Form::submit('Save', array('class' => 'btn btn-primary')) !!}
+{!! Form::submit('Save', array('class' => 'btn btn-primary center-block')) !!}
